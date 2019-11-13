@@ -56,3 +56,4 @@ while not done:
 	clock.tick(60)
  
 pygame.quit()
+#this is too important comment!
